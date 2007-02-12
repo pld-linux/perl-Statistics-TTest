@@ -6,7 +6,7 @@
 %define	pdir	Statistics
 %define	pnam	TTest
 Summary:	Statistics::TTest - Perl module to perform T-test on 2 independent samples
-Summary(pl):	Statistics::TTest - modu≥ Perla do wykonywania testu T na dwÛch niezaleønych prÛbkach
+Summary(pl.UTF-8):   Statistics::TTest - modu≈Ç Perla do wykonywania testu T na dw√≥ch niezale≈ºnych pr√≥bkach
 Name:		perl-Statistics-TTest
 Version:	1.1.0
 Release:	1
@@ -32,12 +32,12 @@ this package) and use the T-statistic to test the null hypothesis. If
 the null hypothesis is rejected, the difference will be given as the
 lower_clm and upper_clm of the TTest object. 
 
-%description -l pl
-To jest modu≥ statystyczny T-Test do porÛwnywania dwÛch niezaleønych
-prÛbek. Przyjmuje 2 tablice miar punktowych, oblicza przedzia≥y
-ufno∂ci przy uøyciu modu≥u PointEstimation (za≥±czonego w tym
-pakiecie) i uøywa statystyki T do sprawdzenia hipotezy zerowej. Je∂li
-hipoteza zerowa jest odrzucona, zostanie podana rÛønica jako lower_clm
+%description -l pl.UTF-8
+To jest modu≈Ç statystyczny T-Test do por√≥wnywania dw√≥ch niezale≈ºnych
+pr√≥bek. Przyjmuje 2 tablice miar punktowych, oblicza przedzia≈Çy
+ufno≈õci przy u≈ºyciu modu≈Çu PointEstimation (za≈ÇƒÖczonego w tym
+pakiecie) i u≈ºywa statystyki T do sprawdzenia hipotezy zerowej. Je≈õli
+hipoteza zerowa jest odrzucona, zostanie podana r√≥≈ºnica jako lower_clm
 i upper_clm obiektu TTest.
 
 %prep
