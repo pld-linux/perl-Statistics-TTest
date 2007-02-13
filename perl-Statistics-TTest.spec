@@ -6,7 +6,7 @@
 %define	pdir	Statistics
 %define	pnam	TTest
 Summary:	Statistics::TTest - Perl module to perform T-test on 2 independent samples
-Summary(pl.UTF-8):   Statistics::TTest - moduł Perla do wykonywania testu T na dwóch niezależnych próbkach
+Summary(pl.UTF-8):	Statistics::TTest - moduł Perla do wykonywania testu T na dwóch niezależnych próbkach
 Name:		perl-Statistics-TTest
 Version:	1.1.0
 Release:	1
