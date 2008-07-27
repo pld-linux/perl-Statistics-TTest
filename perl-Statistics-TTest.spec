@@ -9,7 +9,7 @@ Summary:	Statistics::TTest - Perl module to perform T-test on 2 independent samp
 Summary(pl.UTF-8):	Statistics::TTest - moduł Perla do wykonywania testu T na dwóch niezależnych próbkach
 Name:		perl-Statistics-TTest
 Version:	1.1.0
-Release:	1
+Release:	2
 License:	unknown
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
